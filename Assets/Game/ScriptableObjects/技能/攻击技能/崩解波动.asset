@@ -10,22 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed92a0a7f31f8a141bb6e09597cf5c87, type: 3}
-  m_Name: "\u98DE\u5203\u4E4B\u821E"
+  m_Name: "\u5D29\u89E3\u6CE2\u52A8"
   m_EditorClassIdentifier: 
-  cardName: "\u98DE\u5203\u4E4B\u821E"
-  description: "\u5BF9\u6240\u67093\u683C\u5185\u76EE\u6807\u9020\u62101\u70B9\u4F24\u5BB3\uFF0C\u65BD\u52A02\u5C42\u4E2D\u6BD2"
-  thoughtCost: 1
-  actionCost: 1
+  cardName: "\u5D29\u89E3\u6CE2\u52A8"
+  description: "\u5BF9\u573A\u4E0A\u6240\u6709\u654C\u4EBA\u548C\u969C\u788D\u7269\u9020\u62103\u70B9\u7269\u7406\u4F24\u5BB3"
+  thoughtCost: 30
+  actionCost: 20
   maxUses: 1
   minRange: 0
-  maxRange: 2
-  damage: 1
-  targetTypes: 00000000
+  maxRange: 999
+  damage: 3
+  targetTypes: 0000000001000000
   defenseEffectType: 1
   defenseValue: 0
   defenseTargetTypes: 01000000
   library: 0
   rarity: 3
-  tags: 0100000006000000
+  tags: 01000000
   buffs: []
   devNotes: 
